@@ -40,3 +40,8 @@ Version_1:
   	import lightgbm as lgb
   	from lightgbm import LGBMRegressor
   	from xgboost import XGBRegressor
+	
+Version_2:
+
+	Identify and remove outliers based on data visualization and correlation analysis between salesprice and other features. Public score is improved to .12073.
+	
