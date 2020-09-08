@@ -45,3 +45,8 @@ Version_2:
 
 	Identify and remove outliers based on data visualization and correlation analysis between salesprice and other features. Public score is improved to .12073.
 	
+	
+Credit: 
+	https://www.kaggle.com/masumrumi/a-detailed-regression-guide-with-house-pricing
+	https://www.kaggle.com/lavanyashukla01/how-i-made-top-0-3-on-a-kaggle-competition
+	
