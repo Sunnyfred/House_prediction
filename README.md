@@ -48,5 +48,6 @@ Version_2:
 	
 Credit: 
 	https://www.kaggle.com/masumrumi/a-detailed-regression-guide-with-house-pricing
+	
 	https://www.kaggle.com/lavanyashukla01/how-i-made-top-0-3-on-a-kaggle-competition
 	
